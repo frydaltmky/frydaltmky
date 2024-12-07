@@ -29,7 +29,7 @@ GET https://info-free-fire-killer-kelly-121-xwb7.onrender.com/info/id=12345678
 https://likes-free-fire-kelly-121.onrender.com//@BL_RX/likes/id={uid}
 
 ```
-تسترجع هذه النقطة عدد الإعجابات المرتبطة بحساب المستخدم.
+تسترجع هذه النقطة إرسل الإعجابات إلى حساب المستخدم.
 
 مثال على الطلب:
 
