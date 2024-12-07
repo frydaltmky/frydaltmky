@@ -22,10 +22,11 @@ GET https://info-free-fire-killer-kelly-121-xwb7.onrender.com/info/id=12345678
 
 ---
 
-2. API عدد الإعجابات للحساب
+2. API عبر الايدي  الإعجابات إرسال
 
 مسار الـ API:
-```httphttps://likes-free-fire-kelly-121.onrender.com//@BL_RX/likes/id={uid}
+```http
+https://likes-free-fire-kelly-121.onrender.com//@BL_RX/likes/id={uid}
 
 ```
 تسترجع هذه النقطة عدد الإعجابات المرتبطة بحساب المستخدم.
@@ -39,6 +40,7 @@ GET https://likes-free-fire-kelly-121.onrender.com//@BL_RX/likes/id=2687804507
 ```
 المعلمات المستخدمة:
 
+ايدي لاعب فقط
 
 ---
 
@@ -97,7 +99,7 @@ GET https://likes-free-fire-kelly-121.onrender.com//@BL_RX/likes/id=2687804507
 
 ```
 
-2. استجابة ناجحة لعدد الإعجابات:
+2. استجابة ناجحة  الإعجابات:
 ```json
 {
   "Ok": "Account will send 100 likes soon. Telegram Dev @SXmodG"
@@ -152,3 +154,9 @@ GET https://likes-free-fire-kelly-121.onrender.com//@BL_RX/likes/id=2687804507
 تم إنشاء هذه الـ API بواسطة  (كيلوا»» @SXmodG). جميع الحقوق محفوظة.
 
 ##انضم إلى مجموعتي على تليجرام  https://t.me/bot_pro_v3
+
+
+
+#ملاحضه جلب معلومات وأرسل إعجبات يعمل فقط على لاعبين سيرفر مينا الشرق الاوسط إذا اردت صنع واحد خاص في بلدك تواصل معي على تليجرام ستكون الخدمه مجانيه بل كامل فقط ارسل لي حساب من بلدك حتى اقوم بنصع API  لك 
+
+##تواصل >>>>>> Telegram @SXmodG 
