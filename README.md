@@ -8,8 +8,9 @@
 
 ### 1. **API معلومات الحساب**
 **مسار الـ API:**  
-`https://info-free-fire-killer-kelly-121-xwb7.onrender.com/info/id={uid}`
-`ui
+```http
+https://info-free-fire-killer-kelly-121-xwb7.onrender.com/info/id={uid}`
+```
 تسترجع هذه النقطة معلومات الحساب الأساسية بناءً على رقم تعريف المستخدم.
 
 #### **مثال على الطلب:**
